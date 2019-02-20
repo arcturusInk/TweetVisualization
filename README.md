@@ -20,4 +20,4 @@ Based on the histogram, the data follows the shape of a bell curve. Most tweets 
 
 ![](https://user-images.githubusercontent.com/9923181/49534944-e1ad2500-f890-11e8-9ea6-b9340b9c5388.png)
 
-Based on the histogram, majority of people's tweets were either very objective or very subjective.  
+Based on the histogram, majority of people's tweets were either very objective or very subjective. Majority were subjective rather than objective. 
