@@ -16,5 +16,7 @@ Below are the graphs, I produced:
 
 ![](https://user-images.githubusercontent.com/9923181/49534921-d22ddc00-f890-11e8-8f9c-c7c1e2428e21.png)
 
+Based on the histogram, the data follows the shape of a bell curve. Most tweets on the topic of automation have neutral to positive polarity spectrum. 
+
 ![](https://user-images.githubusercontent.com/9923181/49534944-e1ad2500-f890-11e8-9ea6-b9340b9c5388.png)
 
